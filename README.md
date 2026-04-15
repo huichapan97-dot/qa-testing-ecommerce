@@ -36,7 +36,8 @@ Asegurar el correcto funcionamiento del sistema, identificando errores críticos
 ## 📸 Evidencia
 
 ![Proyecto](./Proyecto%20Postman.png)
-
+### 🔹 Gestión de bugs en Jira
+![Jira](./jira evidencia.png)
 ---
 
 ## 💡 Resultados
